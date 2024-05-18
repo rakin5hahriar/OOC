@@ -10,8 +10,10 @@ class Student {
     String name;
     String id;
 
-    public Student(String _name, String _id){
-        name = _name;
-        id = _id;
+    public Student(String name, String id){
+        this.name = name;
+        this.id = id;
     }
+
+    //this. => this j constructor e use kora hoise oi constructor er karon e create houa obj er attribute
 }
