@@ -15,5 +15,5 @@ class Student {
         this.id = id;
     }
 
-    //this. => this j constructor e use kora hoise oi constructor er karon e create houa obj er attribute
+    //this. => this j constructor e use kora hoise oi constructor er karon e create houa obj er attribute  
 }
