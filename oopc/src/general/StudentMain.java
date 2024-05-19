@@ -1,3 +1,5 @@
+package general;
+
 public class StudentMain {
     public static void main(String args[]){
         Student St1 = new Student("Rakin","16");

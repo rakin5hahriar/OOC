@@ -1,3 +1,5 @@
+package general;
+
 public class SwapperMain {
     public static void main(String[] args) {
         int a = 5;
@@ -5,10 +7,10 @@ public class SwapperMain {
 
         System.out.println("Before swap: a = " + a + ", b = " + b);
 
-        // Create an instance of the Swapper class
+        // Create an instance of the general.Swapper class
         Swapper swapper = new Swapper();
 
-        // Call the swap method on the Swapper instance
+        // Call the swap method on the general.Swapper instance
         swapper.swapValues(a, b);
 
         System.out.println("After swap: a = " + a + ", b = " + b);

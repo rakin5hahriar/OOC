@@ -1,3 +1,5 @@
+package general;
+
 public class ArrayObjMain {
     public static void main(String []args){
         ArrayObj []st = new ArrayObj[3];
